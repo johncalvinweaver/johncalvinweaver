@@ -1,4 +1,4 @@
-# Hi, I’m John — IT Director & AI architect building transparent, auditable AI systems
+# Hi, I’m John — Foundational AI ThinkTank & AI architect building transparent, auditable and provable AI systems that do more at a fraction of the cost and compute
 
 I build practical AI products and infrastructure:
 - **Weaver-CCI** – Authorship “nutrition labels” for content (human vs AI provenance).
